@@ -49,4 +49,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hichambouttaj&theme=dark&show_icons=true)
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hichambouttaj&theme=dark)
