@@ -47,4 +47,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hichambouttaj&theme=dark&show_icons=true)
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hichambouttaj&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hicham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichambouttaj&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
