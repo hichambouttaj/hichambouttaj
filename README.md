@@ -6,6 +6,8 @@
 
 <h2 align="center">Hi 👋! My name is Hicham Bouttaj and I'm a Software engineering student</h2>
 
+🌱 I’m currently learning **Spring Framework**
+
 ###
 
 <div align="center">
