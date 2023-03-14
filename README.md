@@ -62,7 +62,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hichambouttaj/hichambouttaj/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/hichambouttaj/hichambouttaj/blob/output/snake.svg" />
+</div>
 
 ###
 
