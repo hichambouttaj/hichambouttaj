@@ -19,7 +19,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: hichambouttaj
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            
 
 
       - name: push snake.svg to the output branch
